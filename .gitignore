@@ -1,0 +1,8 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+front-door/ed_data_all.rds
+back-door/ed_data_all.rds
+config/connections.R
